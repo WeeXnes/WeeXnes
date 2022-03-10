@@ -1,5 +1,6 @@
 <h1 align="center">hey, im WeeXnes</h1>
 <h3 align="center">semi professional developer (still a student), 18 years old</h3>
+<h3 align="center">i'll soon be more active on github</h3>
 
 <p align="left"> <a href="https://twitter.com/toxisches" target="blank"><img src="https://img.shields.io/twitter/follow/toxisches?logo=twitter&style=for-the-badge" alt="toxisches" /></a> </p>
 
