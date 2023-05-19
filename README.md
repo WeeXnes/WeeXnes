@@ -1,5 +1,5 @@
 # 💫 About Me:
-semi professional developer (still a student), 18 years old<br>i'll soon be more active on github<br> Current Main Project: <a href="https://github.com/WeeXnes/WeeXnesSuite">WeeXnesSuite</a>
+semi professional developer (still a student), 19 years old<br>i'll soon be more active on github<br> Current Main Project: <a href="https://github.com/WeeXnes/WeeXnesSuite">WeeXnesSuite</a>
 
 
 ## 🌐 Socials:
