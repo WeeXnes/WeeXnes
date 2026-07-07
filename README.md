@@ -1,5 +1,5 @@
 # 💫 About Me:
-semi professional developer (still a student), 21 years old<br><br> !! i moved here: <a href="https://code.weexnes.dev">OneDev (Self-Hosted Git Remote)</a> !!
+semi professional developer (still a student), 22 years old<br><br> !! i moved here: <a href="https://code.weexnes.dev">OneDev (Self-Hosted Git Remote)</a> !!
 
 
 ## 🌐 Socials:
